@@ -5,8 +5,10 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Status](https://img.shields.io/badge/status-stable-brightgreen.svg)
 
-A quantum algorithm implementation that uses Grover's search algorithm to find optimal approximations of the golden ratio (φ) within numerical sequences. This project demonstrates practical quantum computing applications for mathematical optimization problems.
+This content was developed through a synergy between my personal contribution and the use of artificial intelligence tools. In particular, AI provided significant support in writing code and offered logical assistance in response to my requests, helping to give structure and meaning to the prompts and solutions adopted.
 
+The application is a Proof of Concept in reverse engineering. It is recommended to familiarize yourself with the underlying logic before raising any doubts or requests for clarification.
+This quantum algorithm implementation adopts an approach inspired by Grover’s algorithm to identify optimal approximations of the golden ratio (φ) within numerical sequences. The project demonstrates practical applications of quantum computing to mathematical optimization problems and is also intended for educational purposes.
 ## 🎯 Overview
 
 The Quantum Golden Selector leverages quantum superposition and Grover's algorithm to efficiently search through candidate numbers and identify those that best approximate the golden ratio φ ≈ 1.618033988749. Instead of classical brute-force search, it uses quantum parallelism to evaluate multiple candidates simultaneously.
