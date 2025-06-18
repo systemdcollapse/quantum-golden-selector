@@ -1,0 +1,19 @@
+# Core quantum computing dependencies
+qiskit>=1.0.0
+qiskit-aer>=0.13.0
+qiskit-ibm-runtime>=0.20.0
+
+# Mathematical and scientific computing
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Configuration and environment
+python-dotenv>=1.0.0
+
+# Optional visualization (for extended features)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilities
+typing-extensions>=4.5.0
+
