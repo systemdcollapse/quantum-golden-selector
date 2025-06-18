@@ -193,7 +193,8 @@ Typical performance on different backends:
 |---------|--------|--------------|----------------|
 | AerSimulator | 4-8 | 95%+ | ~1s |
 | ibm_sherbrooke | 127 | 85-90% | ~30s |
-| ibm_kyoto | 127 | 80-85% | ~45s |
+| ibm_kyoto* | 127 | 80-85% | ~45s |
+*requires subscription
 
 ## 🐛 Troubleshooting
 
