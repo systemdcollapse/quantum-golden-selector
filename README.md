@@ -21,7 +21,6 @@ The Quantum Golden Selector leverages quantum superposition and Grover's algorit
 - **Text-Only Interface**: Clean, professional output without graphical dependencies
 - **Robust Error Handling**: Comprehensive fallback mechanisms and error recovery
 - **Configurable Parameters**: Customizable tolerance, candidates, and execution settings
-[![View on GitHub](https://img.shields.io/badge/GitHub-View%20Repository-blue?logo=github)](https://github.com/tuo-username/nome-repository)
 
 ## 🚀 Quick Start
 
