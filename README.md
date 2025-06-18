@@ -22,8 +22,8 @@ The Quantum Golden Selector leverages quantum superposition and Grover's algorit
 
 ## 🚀 Quick Start
 
-###Nota:
-Il presente contenuto è stato sviluppato mediante una sinergia tra il mio contributo personale e l’utilizzo di strumenti di intelligenza artificiale. In particolare, l’IA ha fornito un contributo immenso nella scrittura del codice e un supporto logico alle mie richieste, aiutando a dare struttura e senso ai prompt e alle soluzioni adottate.
+Note:
+This content was developed through a synergy between my personal contribution and the use of artificial intelligence tools. In particular, AI provided significant support in writing code and offered logical assistance in response to my requests, helping to give structure and meaning to the prompts and solutions adopted.
 
 
 ### Installation
