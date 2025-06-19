@@ -28,14 +28,16 @@ Note:
 This content was developed through a synergy between my personal contribution and the use of artificial intelligence tools. In particular, AI provided significant support in writing code and offered logical assistance in response to my requests, helping to give structure and meaning to the prompts and solutions adopted.
 
 
-### Installation
-
+### Virtual environments
+```bash
 python -m venv quantum_env
 source quantum_env/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
 python src/quantum_golden_selector.py --test o --hardware
+```
 
+### Installation
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/quantum-golden-selector.git
