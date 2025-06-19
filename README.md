@@ -32,6 +32,7 @@ This content was developed through a synergy between my personal contribution an
 ```bash
 python -m venv quantum_env
 source quantum_env/bin/activate
+cd Downloads/quantum-golden-selector-main
 pip install --upgrade pip
 pip install -r requirements.txt
 python src/quantum_golden_selector.py --test o --hardware
@@ -90,7 +91,7 @@ Target: Find apex ≈ 55 × φ = 89.02
    φ-deviation: 0.0001480776
 ```
 
-================================== Circuit sampler =======================================================
+================================== Circuit sampler ===========================================
 
 grover_idx_0: ───H───X───@───X───────@───X───@───X───H───X───@───X───H───M('grover_result')───
                          │           │       │               │           │
@@ -98,7 +99,7 @@ grover_idx_1: ───H───X───@───X───X───@──
                          │           │       │               │           │
 grover_idx_2: ───H───X───@───X───────@───────@───────H───X───@───X───H───M────────────────────
 
-===================================================================================================
+===============================================================================================
 ## 🔬 Algorithm Details
 
 ### Quantum Circuit Architecture
@@ -133,10 +134,6 @@ quantum-golden-selector/
 │   ├── INSTALLATION.md               # Detailed installation guide
 │   ├── USAGE.md                     # Comprehensive usage examples
 │   └── ALGORITHM.md                 # Technical algorithm documentation
-├── examples/
-│   └── demo.py                      # Interactive demonstration
-├── tests/
-│   └── test_quantum_selector.py     # Unit tests
 ├── requirements.txt                  # Python dependencies
 ├── .env.example                     # Environment configuration template
 └── README.md                        # This file
