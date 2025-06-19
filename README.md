@@ -242,7 +242,7 @@ If you use this work in your research, please cite:
 ```bibtex
 @software{quantum_golden_selector,
   title={Quantum Golden Selector: Grover's Algorithm for Golden Ratio Approximation},
-  author={[Your Name]},
+  author={systemdcollapse},
   year={2024},
   url={https://github.com/yourusername/quantum-golden-selector}
 }
