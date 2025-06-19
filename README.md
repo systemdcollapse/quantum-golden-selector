@@ -30,6 +30,12 @@ This content was developed through a synergy between my personal contribution an
 
 ### Installation
 
+python -m venv quantum_env
+source quantum_env/bin/activate
+pip install --upgrade pip
+pip install -r requirements.txt
+python src/quantum_golden_selector.py --test o --hardware
+
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/quantum-golden-selector.git
