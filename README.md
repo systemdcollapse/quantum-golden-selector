@@ -27,7 +27,8 @@ The Quantum Golden Selector leverages quantum superposition and Grover's algorit
 ### Accessing IBM Quantum Hardware
 ```bash
 1. To use real IBM Quantum hardware, authentication is required.
-2. Choose one of the available authentication options and edit the .env.example file with your credentials [TOKEN].
+2. Choose one of the available authentication options and edit the .env.example
+file with your credentials [TOKEN].
 3. Save it as .env in the same folder as the script you want to run.
 4. You can monitor your job status directly from the [IBM Quantum Dashboard]
 ```
