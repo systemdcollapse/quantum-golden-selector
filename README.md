@@ -24,9 +24,14 @@ The Quantum Golden Selector leverages quantum superposition and Grover's algorit
 
 ## 🚀 Quick Start
 
-Note:
-This content was developed through a synergy between my personal contribution and the use of artificial intelligence tools. In particular, AI provided significant support in writing code and offered logical assistance in response to my requests, helping to give structure and meaning to the prompts and solutions adopted.
-
+### Accessing IBM Quantum Hardware
+```bash
+1. To use real IBM Quantum hardware, authentication is required.
+2. Choose one of the available authentication options and edit the .env.example file with your credentials [TOKEN].
+3. Save it as .env in the same folder as the script you want to run.
+4. You can monitor your job status directly from the [IBM Quantum Dashboard]
+```
+https://quantum.ibm.com/account
 
 ### Virtual environments
 ```bash
@@ -37,15 +42,6 @@ pip install --upgrade pip
 pip install -r requirements.txt
 python src/quantum_golden_selector.py --test o --hardware
 ```
-
-### Accessing IBM Quantum Hardware
-```bash
-1. To use real IBM Quantum hardware, authentication is required.
-2. Choose one of the available authentication options and edit the .env.example file with your credentials [TOKEN].
-3. Save it as .env in the same folder as the script you want to run.
-4. You can monitor your job status directly from the [IBM Quantum Dashboard]
-```
-(https://quantum.ibm.com/account)
 
 ### Installation
 ```bash
