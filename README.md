@@ -38,6 +38,15 @@ pip install -r requirements.txt
 python src/quantum_golden_selector.py --test o --hardware
 ```
 
+### Accessing IBM Quantum Hardware
+```bash
+1. To use real IBM Quantum hardware, authentication is required.
+2. Choose one of the available authentication options and edit the .env.example file with your credentials [TOKEN].
+3. Save it as .env in the same folder as the script you want to run.
+
+Then, run your script.py can monitor your job status directly from the [IBM Quantum Dashboard](https://quantum-computing.ibm.com/).
+```
+
 ### Installation
 ```bash
 # Clone the repository
