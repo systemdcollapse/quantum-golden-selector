@@ -19,7 +19,6 @@ The Quantum Golden Selector leverages quantum superposition and Grover's algorit
 - **Golden Ratio Precision**: High-precision calculations for φ approximations
 - **Hardware Ready**: Compatible with IBM Quantum hardware and local simulators
 - **Text-Only Interface**: Clean, professional output without graphical dependencies
-#- **Robust Error Handling**: #Comprehensive fallback mechanisms and #error recovery
 - **Configurable Parameters**: Customizable tolerance, candidates, and execution settings
 
 ## 🚀 Quick Start
