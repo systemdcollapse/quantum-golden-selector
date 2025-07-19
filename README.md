@@ -7,7 +7,7 @@
 
 This content was developed through a synergy between my personal contribution and the use of artificial intelligence tools. In particular, AI provided significant support in writing code and offered logical assistance in response to my requests, helping to give structure and meaning to the prompts and solutions adopted.
 
-The application is a Proof of Concept in reverse engineering. It is recommended to familiarize yourself with the underlying logic before raising any doubts or requests for clarification.
+The application example is a reverse engineering. It is recommended to familiarize yourself with the underlying logic before raising any doubts or requests for clarification.
 This quantum algorithm implementation adopts an approach inspired by Grover’s algorithm to identify optimal approximations of the golden ratio (φ) within numerical sequences. The project demonstrates practical applications of quantum computing to mathematical optimization problems and is also intended for educational purposes.
 ## 🎯 Overview
 
